@@ -1,1 +1,4 @@
 this is file 2 of the github course
+adding content to file2.txt
+
+adding content in this file and commiting it.
